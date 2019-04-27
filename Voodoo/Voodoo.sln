@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voodoo.Plugins", "Voodoo.Plugins.csproj", "{5F988332-7E4D-5EEE-F24F-184E2836A10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voodoo", "Voodoo.csproj", "{FAEAC8FD-11FD-E9E5-0F15-EC2E6BA9E74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F988332-7E4D-5EEE-F24F-184E2836A10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F988332-7E4D-5EEE-F24F-184E2836A10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F988332-7E4D-5EEE-F24F-184E2836A10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F988332-7E4D-5EEE-F24F-184E2836A10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEAC8FD-11FD-E9E5-0F15-EC2E6BA9E74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEAC8FD-11FD-E9E5-0F15-EC2E6BA9E74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEAC8FD-11FD-E9E5-0F15-EC2E6BA9E74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEAC8FD-11FD-E9E5-0F15-EC2E6BA9E74B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7524121a2001268408acddcd3663ac72
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fireSound: {fileID: 8300000, guid: 25af14133012e4d4fb7b470bdd7e15ff, type: 3}
+  - explosionEnemy: {fileID: 100000, guid: 5b1a10f50a806004d9c9bda27c494ae7, type: 2}
+  - explosionFriend: {fileID: 100000, guid: fdb72295e8de5b14a88b27f9a2d55975, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 21d3e2c33b9c07f4ea2199dcb379ae2a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - puff: {fileID: 100000, guid: 2a3ac83cd1167164b8f9a5af636af856, type: 2}
+  - fireSound: {fileID: 8300000, guid: 58bf71fcc289b754390177fd1c2cb026, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
